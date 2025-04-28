@@ -1,0 +1,6 @@
+escenario,n,sign_ms,cifTabla_ms,verif_ms,cifRespSym_ms,cifRespAsim_ms
+iterativo-32,32,1.6557,0.6196,0.1433,0.2968,0.2410
+concurrent-4,4,1.0867,0.2306,0.0327,0.1425,0.1319
+concurrent-16,16,1.1846,0.1767,0.0291,0.1127,0.0912
+concurrent-32,32,1.7152,0.1482,0.0283,0.1019,0.1770
+concurrent-64,64,1.1526,0.0931,0.0224,0.0725,0.1614
